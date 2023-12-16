@@ -1,2 +1,2 @@
-# pymmm.github.io
+# Pymmm.github.io
 My personal GitHub Pages website
